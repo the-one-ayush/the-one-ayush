@@ -14,6 +14,6 @@ Skills:
 ‣ Core Programming: Problem-solving using Python, C++, and Java.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
 ![](https://streak-stats.demolab.com/?user=the-one-ayush&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
