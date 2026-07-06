@@ -6,8 +6,11 @@ I am a Computer Science undergraduate passionate about building AI-powered full-
 Skills:
 
 ‣ Full-Stack Development: Building applications using React, Next.js, Node.js, and SpringBoot.
+
 ‣ AI & Machine Learning: Implementing ML techniques and exploring deep learning.
+
 ‣ LLM Orchestration: Developing with Ollama, LangGraph, and LangChain for local AI workflows.
+
 ‣ Core Programming: Problem-solving using Python, C++, and Java.
 
 # 📊 GitHub Stats:
