@@ -1,6 +1,12 @@
 ### Hi there 👋! I am Ayush!
 Currently learning: Python, PHP, JavaScript, Java, SQL, Node.js
 
-[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=the-one-ayush&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=the-one-ayush&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-one-ayush)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://komarev.com/ghpvc/?username=the-one-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
