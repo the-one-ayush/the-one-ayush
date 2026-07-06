@@ -1,3 +1,5 @@
+<img width="2338" height="633" alt="github-header-banner" src="https://github.com/user-attachments/assets/8aeccf1f-f15d-48aa-97df-9290558d800c" />
+
 ### Hi there 👋! I am Ayush!
 Currently learning: Python, PHP, JavaScript, Java, SQL, Node.js
 
