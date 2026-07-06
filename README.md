@@ -5,8 +5,3 @@ Currently learning: Python, PHP, JavaScript, Java, SQL, Node.js
 ![](https://github-readme-stats.shion.dev/api?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=the-one-ayush&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=the-one-ayush&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=the-one-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
